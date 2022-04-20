@@ -1,4 +1,9 @@
-# Publication
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 1. **Adversarial Immunization for Certifiable Robustness on Graphs**
 
@@ -6,7 +11,7 @@
 
    14th ACM International Conference on Web Search and Data Mining ***(WSDM 2021)***, Full Research Paper
 
-   [[Paper\]](https://arxiv.org/abs/2007.09647) [[Github\]](https://github.com/TaoShuchang/AdvImmune)
+   [[Paper]](https://arxiv.org/abs/2007.09647) [[Code]](https://github.com/TaoShuchang/AdvImmune)
 
 2. **Single Node Injection Attack against Graph Neural Networks**
 
@@ -14,7 +19,7 @@
 
    30th ACM International Conference on Information and Knowledge Management ***(CIKM 2021)*** , Full Research Paper
 
-   [[Paper\]](https://arxiv.org/abs/2108.13049) [[Github\]](https://github.com/TaoShuchang/G-NIA)
+   [[Paper]](https://arxiv.org/abs/2108.13049) [[Github]](https://github.com/TaoShuchang/G-NIA)
 
 3. **Signed Bipartite Graph Neural Networks**
 
@@ -22,7 +27,7 @@
 
    30th ACM International Conference on Information and Knowledge Management ***(CIKM 2021)*** , Full Research Paper
 
-   [[Paper\]](https://arxiv.org/abs/2108.09638) [[Github\]](https://github.com/huangjunjie-cs/SBGNN)
+   [[Paper]](https://arxiv.org/abs/2108.09638) [[Github]](https://github.com/huangjunjie-cs/SBGNN)
 
 4. **INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering**
 
@@ -30,6 +35,6 @@
 
    45th International ACM SIGIR Conference on Research and Development in Information Retrieval ***(SIGIR 2022)***, Full Research Paper
 
-   [[Paper\]](https://arxiv.org/abs/2107.05247) 
+   [[Paper]](https://arxiv.org/abs/2107.05247) 
 
 ​	
