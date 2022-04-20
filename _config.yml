@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shuchang Tao"
   avatar           : "profile.png"
-  bio              : "4th-year PhD student\n Adversarial attack and defense on graphs. "
+  bio              : "4th-year PhD student at ICT.\n Interested in Adversarial attack and defense on graphs."
   location         : "Beijing, China"
-  employer         : "Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)"
+  employer         : "ICT, CAS"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LdavvIwAAAAJ&hl=zh-CN&oi=sra"
-  email            : "taoshuchanfg18z@ict.ac.cn"
+  email            : "taoshuchang18z@ict.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
