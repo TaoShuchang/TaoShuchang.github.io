@@ -1,19 +1,8 @@
----
-permalink: /
-title: "Shuchang Tao's Homepage"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 ## About me
 
 Hello! I am a 4th year PhD student in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My supervisor is [Prof. Huawei Shen](http://www.bigdatalab.ac.cn/~shenhuawei/). 
 
 I am broadly interested in trustworthy machine learning and graph neural networks. Most of my current and previous works focus on adversarial attack and defense on graphs. 
-
-
 
 **Research interests**: adversarial attack, robustness, graph neural networks. 
 
@@ -43,13 +32,11 @@ Email: taoshuchang18z [AT] ict.ac.cn
 - **Signed Bipartite Graph Neural Networks**
   Junjie Huang, Huawei Shen, Qi Cao, **Shuchang Tao**, Xueqi Cheng
    30th ACM International Conference on Information and Knowledge Management ***(CIKM 2021)*** , Full Research Paper
-
    [[Paper]](https://arxiv.org/abs/2108.09638) [[Github]](https://github.com/huangjunjie-cs/SBGNN)
 
 - **INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering**
    Yunfan Wu, Qi Cao, Huawei Shen, Junjie Huang, **Shuchang Tao**, Xueqi Cheng
     45th International ACM SIGIR Conference on Research and Development in Information Retrieval ***(SIGIR 2022)***, Full Research Paper
-
    [[Paper]](https://arxiv.org/abs/2107.05247) 
 
 
@@ -65,7 +52,4 @@ Email: taoshuchang18z [AT] ict.ac.cn
 - Merit Student, University of Chinese Academy of Sciences, 2021and 2018
 
   
-
-
-
 
