@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Shuchang's homepage"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About me
 
 Hello! I am a 4th year PhD student in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My supervisor is [Prof. Huawei Shen](http://www.bigdatalab.ac.cn/~shenhuawei/). 
