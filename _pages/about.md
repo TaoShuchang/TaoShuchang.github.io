@@ -37,8 +37,9 @@ Email: taoshuchang18z [AT] ict.ac.cn
    **Shuchang Tao**, Huawei Shen, Qi Cao, Liang Hou, and Xueqi Cheng
    
    14th ACM International Conference on Web Search and Data Mining ***(WSDM 2021)***, Full Research Paper
-   [[Paper]](https://arxiv.org/abs/2007.09647) [[Code]](https://github.com/TaoShuchang/AdvImmune) [[Talk]](https://www.bilibili.com/video/BV1n5411m7ZH)
-
+   
+  [[Paper]](https://arxiv.org/abs/2007.09647) [[Code]](https://github.com/TaoShuchang/AdvImmune) [[Talk]](https://www.bilibili.com/video/BV1n5411m7ZH)
+  
 - **Single Node Injection Attack against Graph Neural Networks**
   
    **Shuchang Tao**, Qi Cao, Huawei Shen, Junjie Huang, Yunfan Wu, Xueqi Cheng
