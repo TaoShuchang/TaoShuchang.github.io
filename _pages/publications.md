@@ -11,7 +11,7 @@ author_profile: true
    
    14th ACM International Conference on Web Search and Data Mining ***(WSDM 2021)***, Full Research Paper
    
-  [[Paper]](https://arxiv.org/abs/2007.09647) [[Code]](https://github.com/TaoShuchang/AdvImmune) [[Talk]](https://www.bilibili.com/video/BV1n5411m7ZH)
+  [[Paper]](https://arxiv.org/abs/2007.09647) [[Github]](https://github.com/TaoShuchang/AdvImmune) [[Talk]](https://www.bilibili.com/video/BV1n5411m7ZH)
   
 - **Single Node Injection Attack against Graph Neural Networks**
   
@@ -31,11 +31,11 @@ author_profile: true
 
 - **INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering**
   
-   Yunfan Wu, Qi Cao, Huawei Shen, Junjie Huang, **Shuchang Tao**, Xueqi Cheng
+   Yunfan Wu, Qi Cao, Huawei Shen, **Shuchang Tao**, Xueqi Cheng
    
    45th International ACM SIGIR Conference on Research and Development in Information Retrieval ***(SIGIR 2022)***, Full Research Paper
    
-   [[Paper]](https://arxiv.org/abs/2107.05247) 
+   [[Paper]](https://arxiv.org/abs/2107.05247) [[Github]](https://github.com/WuYunfan/igcn_cf)
 
 
 
