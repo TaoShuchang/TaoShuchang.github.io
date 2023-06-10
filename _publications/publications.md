@@ -69,7 +69,7 @@ author_profile: true
 
    [[Paper]](https://arxiv.org/abs/2305.05204) 
 
-9. Enhanced Embedding Based Attentive Pooling Network for Answer Selection
+9. **Enhanced Embedding Based Attentive Pooling Network for Answer Selection**
 
    Zhan Su, Benyou Wang, Jiabin Niu, **Shuchang Tao**, Peng Zhang, Dawei Song
 
@@ -77,7 +77,7 @@ author_profile: true
 
    [[Paper]](https://www.researchgate.net/profile/Benyou-Wang/publication/322248056_Enhanced_Embedding_Based_Attentive_Pooling_Network_for_Answer_Selection/links/5bee7eb7299bf1124fd6014c/Enhanced-Embedding-Based-Attentive-Pooling-Network-for-Answer-Selection.pdf) 
 
-10. Text Matching with Monte Carlo Tree Search
+10. **Text Matching with Monte Carlo Tree Search**
 
     Yixuan He, **Shuchang Tao**, Jun Xu, Jiafeng Guo, YanYan Lan, Xueqi Cheng
 
