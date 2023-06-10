@@ -34,11 +34,9 @@ Email: taoshuchang18z [AT] ict.ac.cn
 
 
 1. **Adversarial Immunization for Certifiable Robustness on Graphs**
-
    **Shuchang Tao**, Huawei Shen, Qi Cao, Liang Hou, and Xueqi Cheng
-
    14th ACM International Conference on Web Search and Data Mining ***(WSDM 2021)***, Full Research Paper
-
+   
    [[Paper]](https://arxiv.org/abs/2007.09647) [[Github]](https://github.com/TaoShuchang/AdvImmune) [[Talk]](https://www.bilibili.com/video/BV1n5411m7ZH)
 
 2. **Single Node Injection Attack against Graph Neural Networks**
