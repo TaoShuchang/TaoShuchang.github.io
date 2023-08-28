@@ -33,7 +33,7 @@ author_profile: true
 
    **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
 
-   Transactions on Knowledge and Data Engineering ***(TKDE)***, Major Revision
+   Transactions on Knowledge and Data Engineering ***(TKDE)*** (IF=9.235), Accept
 
    [[Paper]](https://arxiv.org/abs/2302.08051) [[Github]](https://github.com/TaoShuchang/AdvImmune_node/)
 
@@ -41,7 +41,7 @@ author_profile: true
 
    **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
 
-   Information Sciences, Revision
+   Information Sciences (IF=8.233), Accept
 
    [[Paper]](https://arxiv.org/abs/2208.01819) [[Github]](https://github.com/TaoShuchang/CANA)
 
