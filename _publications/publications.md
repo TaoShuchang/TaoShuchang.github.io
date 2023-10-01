@@ -21,15 +21,7 @@ author_profile: true
 
    [[Paper]](https://arxiv.org/abs/2108.13049) [[Github]](https://github.com/TaoShuchang/G-NIA)
 
-3. **IDEA: Invariant Causal Learning for Graph Adversarial Robustness against Attacks**
-
-   **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Bingbing Xu, Xueqi Cheng
-
-   NeurIPS 2023, Under review
-
-   [[Paper]](https://arxiv.org/abs/2305.15792) [[Github]](https://github.com/TaoShuchang/IDEA_repo)
-
-4. **Graph Adversarial Immunization for Certiﬁable Robustness**
+3. **Graph Adversarial Immunization for Certiﬁable Robustness**
 
    **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
 
@@ -37,13 +29,21 @@ author_profile: true
 
    [[Paper]](https://arxiv.org/abs/2302.08051) [[Github]](https://github.com/TaoShuchang/AdvImmune_node/)
 
-5. **Adversarial Camouflage for Node Injection Attack on Graphs**
+4. **Adversarial Camouflage for Node Injection Attack on Graphs**
 
    **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
 
    Information Sciences (IF=8.233), Accept
 
    [[Paper]](https://arxiv.org/abs/2208.01819) [[Github]](https://github.com/TaoShuchang/CANA)
+
+5. **IDEA: Invariant Causal Learning for Graph Adversarial Robustness against Attacks**
+
+   **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Bingbing Xu, Xueqi Cheng
+
+   ICLR 2024, Under review
+
+   [[Paper]](https://arxiv.org/abs/2305.15792) [[Github]](https://github.com/TaoShuchang/IDEA_repo)
 
 6. **INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering**
 
