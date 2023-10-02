@@ -49,7 +49,7 @@ Email: taoshuchang18z [AT] ict.ac.cn
 
    [[Paper]](https://arxiv.org/abs/2108.13049) [[Github]](https://github.com/TaoShuchang/G-NIA)
 
- 3. **Graph Adversarial Immunization for Certiﬁable Robustness**
+3. **Graph Adversarial Immunization for Certiﬁable Robustness**
 
    **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
 
