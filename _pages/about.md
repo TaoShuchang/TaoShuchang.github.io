@@ -16,7 +16,7 @@ I am broadly interested in large language model trustworthy machine learning. My
 
 **Research interests**: large language model, trustworthy machine learning, adversarial robustness
 
-Email: shuchangtao5 [AT] gmail.com
+[Email](shuchangtao5@gmail.com): shuchangtao5 [AT] gmail.com  [Google scholar](https://scholar.google.com/citations?user=LdavvIwAAAAJ&hl=zh-CN)    [Github](https://github.com/TaoShuchang)
 
 <span style="color: red;">**We are looking for self-motivated research interns at Alibaba Group. Please feel free to contact me via email if you are interested.**</span>
 
