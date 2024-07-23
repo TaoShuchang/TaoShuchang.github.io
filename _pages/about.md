@@ -10,19 +10,21 @@ redirect_from:
 
 ## About me
 
-Hello! I am a 5th year PhD student in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My supervisor is [Prof. Huawei Shen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201402/t20140221_4037648.html ). 
+Hello! I am currently a senior algorithm engineer in the [Tongyi Lab](https://tongyi.aliyun.com/) at [Alibaba Group](https://www.alibabagroup.com/). In December 2023, I obtained my Ph.D. degree in Computer Science from CAS Key Laboratory of AI Safety at [Institute of Computing Technology](http://www.ict.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT, CAS). My supervisor is [Prof. Huawei Shen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201402/t20140221_4037648.html ). 
 
-I am broadly interested in trustworthy machine learning and graph neural networks. Most of my current and previous works focus on adversarial attack and defense on graph neural networks. 
+I am broadly interested in large language model trustworthy machine learning. My current and previous works mainly focus on large language model and adversarial robustness. 
 
-**Research interests**: adversarial robustness, graph neural networks, adversarial attack
+**Research interests**: large language model, trustworthy machine learning, adversarial robustness
 
-Email: taoshuchang18z [AT] ict.ac.cn
+Email: shuchangtao5 [AT] gmail.com
+
+<span style="color: red;">**We are looking for self-motivated research interns at Alibaba Group. Please feel free to contact me via email if you are interested.**</span>
 
 ## Educations
 
 - **Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.**
   
-  PhD in Software Engineering, from September 2018 to June 2023 (Expected).
+  PhD in Software Engineering, from September 2018 to December 2023.
   
 - **Tianjin University, Tianjin, China**
 
@@ -30,90 +32,80 @@ Email: taoshuchang18z [AT] ict.ac.cn
 
 
 
-## Publications
+## Selected Publications
 
 
-1. **Adversarial Immunization for Certifiable Robustness on Graphs**
+**When to Trust LLMs: Aligning Confidence with Response Quality**
 
-   **Shuchang Tao**, Huawei Shen, Qi Cao, Liang Hou, and Xueqi Cheng
-   
-   14th ACM International Conference on Web Search and Data Mining ***(WSDM 2021)***, Full Research Paper
-   
-   [[Paper]](https://arxiv.org/abs/2007.09647) [[Github]](https://github.com/TaoShuchang/AdvImmune) [[Talk]](https://www.bilibili.com/video/BV1n5411m7ZH)
+**Shuchang** **Tao**, Liuyi Yao, Hanxing Ding, Yuexiang Xie, Qi Cao, Fei Sun, Jinyang Gao, Huawei Shen, Bolin Ding
 
-2. **Single Node Injection Attack against Graph Neural Networks**
+**ACL 2024** [[Paper]](https://arxiv.org/abs/2404.17287) [[Github]](https://github.com/TaoShuchang/CONQORD)
 
-   **Shuchang Tao**, Qi Cao, Huawei Shen, Junjie Huang, Yunfan Wu, Xueqi Cheng
+**Graph Adversarial Immunization for Certiﬁable Robustness**
 
-   30th ACM International Conference on Information and Knowledge Management ***(CIKM 2021)*** , Full Research Paper
+**Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
 
-   [[Paper]](https://arxiv.org/abs/2108.13049) [[Github]](https://github.com/TaoShuchang/G-NIA)
+Transactions on Knowledge and Data Engineering ***(TKDE)*** (IF=9.235) [[Paper]](https://arxiv.org/abs/2302.08051) [[Github]](https://github.com/TaoShuchang/AdvImmune_node/)
 
-3. **Graph Adversarial Immunization for Certiﬁable Robustness**
+**Single Node Injection Attack against Graph Neural Networks**
 
-   **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
+**Shuchang Tao**, Qi Cao, Huawei Shen, Junjie Huang, Yunfan Wu, Xueqi Cheng
 
-   Transactions on Knowledge and Data Engineering ***(TKDE)*** (IF=9.235), Accept
+ **CIKM 2021** [[Paper]](https://arxiv.org/abs/2108.13049) [[Github]](https://github.com/TaoShuchang/G-NIA)
 
-   [[Paper]](https://arxiv.org/abs/2302.08051) [[Github]](https://github.com/TaoShuchang/AdvImmune_node/)
+**IDEA: Invariant Causal Learning for Graph Adversarial Robustness against Attacks**
 
-4. **Adversarial Camouflage for Node Injection Attack on Graphs**
+**Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Bingbing Xu, Xueqi Cheng
 
-   **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
+**Information Sciences** (IF=8.233) [[Paper]](https://arxiv.org/abs/2305.15792) [[Github]](https://github.com/TaoShuchang/IDEA_repo)
 
-   **Information Sciences** (IF=8.233), Accept
+**Adversarial Camouflage for Node Injection Attack on Graphs**
 
-   [[Paper]](https://arxiv.org/abs/2208.01819) [[Github]](https://github.com/TaoShuchang/CANA)
+**Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Liang Hou, Xueqi Cheng
 
-5. **IDEA: Invariant Causal Learning for Graph Adversarial Robustness against Attacks**
+**Information Sciences** (IF=8.233), Published
 
-   **Shuchang Tao**,  Qi Cao, Huawei Shen, Yunfan Wu, Bingbing Xu, Xueqi Cheng
+[[Paper]](https://arxiv.org/abs/2208.01819) [[Github]](https://github.com/TaoShuchang/CANA)
 
-   ICLR 2024, Under review
+**Adversarial Immunization for Certifiable Robustness on Graphs**
 
-   [[Paper]](https://arxiv.org/abs/2305.15792) [[Github]](https://github.com/TaoShuchang/IDEA_repo)
+**Shuchang Tao**, Huawei Shen, Qi Cao, Liang Hou, and Xueqi Cheng
 
-6. **INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering**
+ ***WSDM 2021***, Full Research Paper
 
-   Yunfan Wu, Qi Cao, Huawei Shen, **Shuchang Tao**, Xueqi Cheng
+[[Paper]](https://arxiv.org/abs/2007.09647) [[Github]](https://github.com/TaoShuchang/AdvImmune) [[Talk]](https://www.bilibili.com/video/BV1n5411m7ZH)
 
-   45th International ACM SIGIR Conference on Research and Development in Information Retrieval ***(SIGIR 2022)***, Full Research Paper
+**INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering**
 
-   [[Paper]](https://arxiv.org/abs/2107.05247) [[Github]](https://github.com/WuYunfan/igcn_cf)
+Yunfan Wu, Qi Cao, Huawei Shen, **Shuchang Tao**, Xueqi Cheng
 
-7. **Signed Bipartite Graph Neural Networks**
+ **SIGIR 2022** [[Paper]](https://arxiv.org/abs/2107.05247) [[Github]](https://github.com/WuYunfan/igcn_cf)
 
-   Junjie Huang, Huawei Shen, Qi Cao, **Shuchang Tao**, Xueqi Cheng
+**Signed Bipartite Graph Neural Networks**
 
-   30th ACM International Conference on Information and Knowledge Management ***(CIKM 2021)*** , Full Research Paper
+Junjie Huang, Huawei Shen, Qi Cao, **Shuchang Tao**, Xueqi Cheng
 
-   [[Paper]](https://arxiv.org/abs/2108.09638) [[Github]](https://github.com/huangjunjie-cs/SBGNN)
+ **CIKM 2021** [[Paper]](https://arxiv.org/abs/2108.09638) [[Github]](https://github.com/huangjunjie-cs/SBGNN)
 
-8. **Popularity Debiasing from Exposure to Interaction in Collaborative Filtering**
+**Popularity Debiasing from Exposure to Interaction in Collaborative Filtering**
 
-   Yuanhao Liu, Qi Cao, Huawei Shen, Yunfan Wu, **Shuchang Tao**, Xueqi Cheng
+Yuanhao Liu, Qi Cao, Huawei Shen, Yunfan Wu, **Shuchang Tao**, Xueqi Cheng
 
-   46th International ACM SIGIR Conference on Research and Development in Information Retrieval ***(SIGIR 2023)***, Short Paper
+ **SIGIR 2023** [[Paper]](https://arxiv.org/abs/2305.05204) 
 
-   [[Paper]](https://arxiv.org/abs/2305.05204) 
+**Robust recommender system: a survey and future directions**
 
-9. **Enhanced Embedding Based Attentive Pooling Network for Answer Selection**
+Kaike Zhang, Qi Cao, Fei Sun, Yunfan Wu, **Shuchang Tao**, Huawei Shen, Xueqi Cheng
 
-   Zhan Su, Benyou Wang, Jiabin Niu, **Shuchang Tao**, Peng Zhang, Dawei Song
+TOIS under review [[Paper]](https://arxiv.org/abs/2309.02057) 
 
-   6th CCF International Conference on Natural Language Processing and Chinese Computing ***(NLPCC 2017)***, Regular Paper
+**Enhanced Embedding Based Attentive Pooling Network for Answer Selection**
 
-   [[Paper]](https://www.researchgate.net/profile/Benyou-Wang/publication/322248056_Enhanced_Embedding_Based_Attentive_Pooling_Network_for_Answer_Selection/links/5bee7eb7299bf1124fd6014c/Enhanced-Embedding-Based-Attentive-Pooling-Network-for-Answer-Selection.pdf) 
+Zhan Su, Benyou Wang, Jiabin Niu, **Shuchang Tao**, Peng Zhang, Dawei Song
 
-10. **Text Matching with Monte Carlo Tree Search**
+ **NLPCC 2017** [[Paper]](https://www.researchgate.net/profile/Benyou-Wang/publication/322248056_Enhanced_Embedding_Based_Attentive_Pooling_Network_for_Answer_Selection/links/5bee7eb7299bf1124fd6014c/Enhanced-Embedding-Based-Attentive-Pooling-Network-for-Answer-Selection.pdf) 
 
-    Yixuan He, **Shuchang Tao**, Jun Xu, Jiafeng Guo, YanYan Lan, Xueqi Cheng
 
-    24th China Conference on Information Retrieval ***(CCIR 2018)***, Regular Paper
-
-    [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-01012-6_4) 
-
-​	
 
 
 
