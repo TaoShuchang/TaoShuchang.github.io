@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shuchang Tao"
   avatar           : "ShuchangTao.jpg"
-  bio              : "4th-year PhD student at ICT.\n Interested in Adversarial attack and defense on graphs."
-  employer         : "ICT, CAS"
+  bio              : "Algorithm Engineer @Alibaba Group. Interested in Trustworthy LLM; LLM agent; Robustness."
+  employer         : "Alibaba Group"
   location         : "Beijing, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LdavvIwAAAAJ&hl=zh-CN&oi=sra"
-  email            : "taoshuchang18z@ict.ac.cn"
+  email            : "shuchangtao5@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
